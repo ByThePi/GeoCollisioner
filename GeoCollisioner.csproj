@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>GeoCollisioner</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Methods\**" />
+    <Compile Remove="Shapes\**" />
+    <EmbeddedResource Remove="Methods\**" />
+    <EmbeddedResource Remove="Shapes\**" />
+    <None Remove="Methods\**" />
+    <None Remove="Shapes\**" />
+  </ItemGroup>
+
+</Project>
