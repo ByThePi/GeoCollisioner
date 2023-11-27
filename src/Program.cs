@@ -1,14 +1,14 @@
 /**************************************************************************** 
-**                  SAKARYA ‹N›VERS›TES›           
-**          B›LG›SAYAR VE B›L›ﬁ›M B›L›MLER› FAK‹LTES› 
-**               B›LG›SAYAR M‹HEND›SL›–› B÷L‹M‹
-**                  PROGRAMLAMAYA G›R›ﬁ› DERS› 
+**                  SAKARYA √úN√ùVERS√ùTES√ù           
+**          B√ùLG√ùSAYAR VE B√ùL√ù√û√ùM B√ùL√ùMLER√ù FAK√úLTES√ù 
+**               B√ùLG√ùSAYAR M√úHEND√ùSL√ù√ê√ù B√ñL√úM√ú
+**                  PROGRAMLAMAYA G√ùR√ù√û√ù DERS√ù 
 **
-**             ÷DEV NUMARASI    : 1. Proje/Tasar˝m
-**             ÷–RENC› ADI      : Enes SOYLU
-**             ÷–RENC› NUMARASI : B221210081 
+**             √ñDEV NUMARASI    : 1. Proje/Tasar√Ωm
+**             √ñ√êRENC√ù ADI      : Enes SOYLU
+**             √ñ√êRENC√ù NUMARASI : B221210081 
 **             DERS GRUBU       : C Grubu
-               YOUTUBE L›NK›    : 
+               YOUTUBE L√ùNK√ù    : 
 ****************************************************************************/
 namespace b221210081___NDP_Proje
 {
